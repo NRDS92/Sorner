@@ -11,7 +11,6 @@
   <li>Secure "user Name" and "Pasword" verification</li>
   <li>Add Products to the Cart</li>
   <li>Filtering Products Options</li>
-  <li></li>
 </ul>
 <h3>Admin</h3>
 <ul>
