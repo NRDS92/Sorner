@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import "tailwindcss";
+
+*{
+
+  box-sizing: border-box;
+  font-family: "Pirata One", system-ui;
+}
